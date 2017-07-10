@@ -1,2 +1,2 @@
-*Abdullah Alathel*
+_Abdullah Alathel_.  
 Would like to learn Resharper
